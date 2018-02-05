@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @Kuvvat Jorayev
  */
 
 public class Class2 {
